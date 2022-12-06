@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/test-components.blank-lbbs5f2o",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve tobHyUGpkQYeWYw2b96E --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
